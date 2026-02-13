@@ -1,0 +1,6 @@
+pandas
+Pillow
+python-barcode
+openpyxl
+pyinstaller
+
