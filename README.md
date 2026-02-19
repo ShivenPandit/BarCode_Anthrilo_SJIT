@@ -161,8 +161,7 @@ python build_exe_simple.py
 ## Support
 
 Contact Anthrilo Design House:
-- Email: customercare@anthrilo.com
-- Phone: +919888264040
+- Email: anthriloerp@gmail.com
 - Address: KH400/414 Rahon Road, Punjab 141007
 
 ---
