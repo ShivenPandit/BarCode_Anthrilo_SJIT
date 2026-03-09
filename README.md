@@ -158,14 +158,6 @@ Build new executable:
 python build_exe_simple.py
 ```
 
-## Support
-
-Contact Anthrilo Design House:
-- Email: anthriloerp@gmail.com
-- Address: KH400/414 Rahon Road, Punjab 141007
-
----
-
 **Version:** 3.1 (Professional Barcode Scanning)  
 **Updated:** February 12, 2026  
 **Key Improvements:** Optimized barcode for laser scanners with wider bars (140%), proper module width (0.40mm), and adequate quiet zones (5mm) for reliable scanning  
